@@ -1,0 +1,5 @@
+{
+  "name": "AI Mock Interview Pro",
+  "description": "A comprehensive AI-powered mock interview preparation platform with real-time performance tracking and feedback.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
